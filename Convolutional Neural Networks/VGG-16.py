@@ -1,3 +1,8 @@
+"""
+Implementation of the VGG-16 CNN Architecture
+by @arhanerguven
+"""
+
 import matplotlib.pyplot as plt
 from keras.models import Sequential
 from keras.layers import Dense, Conv2D, MaxPool2D , Flatten, Rescaling
